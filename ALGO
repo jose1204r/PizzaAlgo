@@ -1,2 +1,8 @@
 Decide the pizza place
 Decide what type the pizza I want to order
+Call the pizza place
+ 3a. decide pay with check
+ 3a. Decide pay with card
+    Wait on pizza
+    Pay delivery dude
+    Eat Pizza
